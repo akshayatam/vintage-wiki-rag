@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "data": {
+    "url": "https://wiki.themk.org/index.php/Alps_AKB-3420",
+    "type": "scrape",
+    "status": "completed",
+    "title": "Alps AKB-3420 - Keyboard Wiki",
+    "metadata": [
+      {
+        "name": "generator",
+        "content": "MediaWiki 1.44.0"
+      },
+      {
+        "name": "robots",
+        "content": "max-image-preview:standard"
+      },
+      {
+        "name": "format-detection",
+        "content": "telephone=no"
+      },
+      {
+        "name": "og:image",
+        "content": "https://wiki.themk.org/images/thumb/0/00/Alps_AKB-3420_-_complete.jpg/1200px-Alps_AKB-3420_-_complete.jpg",
+        "property": "og:image"
+      },
+      {
+        "name": "og:image:width",
+        "content": "1200",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "648",
+        "property": "og:image:height"
+      },
+      {
+        "name": "og:image",
+        "content": "https://wiki.themk.org/images/thumb/0/00/Alps_AKB-3420_-_complete.jpg/800px-Alps_AKB-3420_-_complete.jpg",
+        "property": "og:image"
+      },
+      {
+        "name": "og:image:width",
+        "content": "800",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "432",
+        "property": "og:image:height"
+      },
+      {
+        "name": "og:image",
+        "content": "https://wiki.themk.org/images/thumb/0/00/Alps_AKB-3420_-_complete.jpg/640px-Alps_AKB-3420_-_complete.jpg",
+        "property": "og:image"
+      },
+      {
+        "name": "og:image:width",
+        "content": "640",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "346",
+        "property": "og:image:height"
+      },
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"
+      }
+    ],
+    "markdown": "Alps AKB-3420 - Keyboard Wiki\n\nAlps AKB-3420\n=============\n\nFrom Keyboard Wiki \n\n[Jump to navigation](https://wiki.themk.org/index.php/Alps_AKB-3420#column-one)[Jump to search](https://wiki.themk.org/index.php/Alps_AKB-3420#searchInput)\n\n![](https://wiki.themk.org/images/1/1a/Template_icon--Illustration.png)\n\nThis article requires additional photographic illustration — revision A with old PCB codes is trapped on Imgur\n\nAlps AKB-3420\n\n[![](https://wiki.themk.org/images/thumb/0/00/Alps_AKB-3420_-_complete.jpg/500px-Alps_AKB-3420_-_complete.jpg)](https://wiki.themk.org/index.php/File:Alps_AKB-3420_-_complete.jpg)\n\nManufacturer\n\n[Alps Electric](https://wiki.themk.org/index.php/Alps_Electric \"Alps Electric\")\n\nLayouts\n\nANSI\n\nKeyswitches\n\n[Alps SKCC Cream](https://wiki.themk.org/index.php/Alps_SKCC_Cream \"Alps SKCC Cream\")\n\nKeycaps\n\n[Double-shot moulding](https://wiki.themk.org/index.php/Double-shot_moulding \"Double-shot moulding\")\n\nContents\n--------\n\n*   [1  Description](https://wiki.themk.org/index.php/Alps_AKB-3420#Description)\n    *   [1.1  Model AKB-3420](https://wiki.themk.org/index.php/Alps_AKB-3420#Model_AKB-3420)\n    *   [1.2  Model KFCCAB902A](https://wiki.themk.org/index.php/Alps_AKB-3420#Model_KFCCAB902A)\n*   [2  Gallery](https://wiki.themk.org/index.php/Alps_AKB-3420#Gallery)\n    *   [2.1  KCCAB902](https://wiki.themk.org/index.php/Alps_AKB-3420#KCCAB902)\n*   [3  External links](https://wiki.themk.org/index.php/Alps_AKB-3420#External_links)\n\nDescription\n-----------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_AKB-3420&veaction=edit&section=1 \"Edit section: Description\") | [edit source](https://wiki.themk.org/index.php?title=Alps_AKB-3420&action=edit&section=1 \"Edit section's source code: Description\")\\]\n\n**Alps AKB-3420** was built for early 80s S-100 computers as these generally had toggle switches for data entry and LED blinking lights for output. If someone wanted a monitor and keyboard, one would generally use a terminal. In the odd cases, S-100 computers had video cards specifically for monitors so keyboards like this would be used along with them. Video cards were not common so keyboards like this would not be either.\n\n### Model AKB-3420\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_AKB-3420&veaction=edit&section=2 \"Edit section: Model AKB-3420\") | [edit source](https://wiki.themk.org/index.php?title=Alps_AKB-3420&action=edit&section=2 \"Edit section's source code: Model AKB-3420\")\\]\n\nAKB-3420 dates back to the 1970s numbering schemes. In the example discovered (ca. 1979), PCB model \"SCH5AO31\" in the product leaflet has been crossed out, and \"KCCAA902\" rubber-stamped below it. The PCB label gives KCCAA902 as the assembly number. This is an old-style PCB with a brown solder side, and a 70s PCB code of \"CH54141C\". The leaflet gives \"AKB-3420\" as the product model.\n\nThe large sheet metal case is unmarked.\n\n### Model KFCCAB902A\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_AKB-3420&veaction=edit&section=3 \"Edit section: Model KFCCAB902A\") | [edit source](https://wiki.themk.org/index.php?title=Alps_AKB-3420&action=edit&section=3 \"Edit section's source code: Model KFCCAB902A\")\\]\n\nThe leaflet for this version gives \"KFCCAB902A\" as the product model followed by the PCB model of \"KCCAB902\" in parentheses, while the smaller sheet metal case still uses the AKB-3420 model number. The PCB model has been changed from \"AA\" to \"AB\", and it has an 80s PCB code of \"12KC177C\".\n\nGallery\n-------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_AKB-3420&veaction=edit&section=4 \"Edit section: Gallery\") | [edit source](https://wiki.themk.org/index.php?title=Alps_AKB-3420&action=edit&section=4 \"Edit section's source code: Gallery\")\\]\n\n### KCCAB902\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_AKB-3420&veaction=edit&section=5 \"Edit section: KCCAB902\") | [edit source](https://wiki.themk.org/index.php?title=Alps_AKB-3420&action=edit&section=5 \"Edit section's source code: KCCAB902\")\\]\n\nThe example below is from ca. 1988 based on the IC dates.\n\n*   [![Alps AKB-3420 - profile metal case](https://wiki.themk.org/images/thumb/2/26/Alps_AKB-3420_-_profile.jpg/500px-Alps_AKB-3420_-_profile.jpg)](https://wiki.themk.org/index.php/File:Alps_AKB-3420_-_profile.jpg \"Alps AKB-3420 - profile metal case\") Alps AKB-3420 - profile metal case \n*   [![Alps AKB-3420 - Serial number](https://wiki.themk.org/images/thumb/6/62/Alps_AKB-3420_-_serial_number.jpg/499px-Alps_AKB-3420_-_serial_number.jpg)](https://wiki.themk.org/index.php/File:Alps_AKB-3420_-_serial_number.jpg \"Alps AKB-3420 - Serial number\") Alps AKB-3420 - Serial number \n*   [![Alps AKB-3420 - front of keyboard assembly](https://wiki.themk.org/images/thumb/8/82/Alps_AKB-3420_-_front_of_keyboard_assembly.jpg/499px-Alps_AKB-3420_-_front_of_keyboard_assembly.jpg)](https://wiki.themk.org/index.php/File:Alps_AKB-3420_-_front_of_keyboard_assembly.jpg \"Alps AKB-3420 - front of keyboard assembly\") Alps AKB-3420 - front of keyboard assembly \n*   [![Alps AKB-3420 - Alps SKCC cream notice horizontal and vertical orientation of switches](https://wiki.themk.org/images/thumb/6/65/Alps_AKB-3420_-_key_caps_removed.jpg/499px-Alps_AKB-3420_-_key_caps_removed.jpg)](https://wiki.themk.org/index.php/File:Alps_AKB-3420_-_key_caps_removed.jpg \"Alps AKB-3420 - Alps SKCC cream notice horizontal and vertical orientation of switches\") Alps AKB-3420 - Alps SKCC cream notice horizontal and vertical orientation of switches \n*   [![Alps AKB-3420 - Keycaps with double-shot molding](https://wiki.themk.org/images/thumb/7/77/Alps_AKB-3420_-_back_of_key_caps.jpg/500px-Alps_AKB-3420_-_back_of_key_caps.jpg)](https://wiki.themk.org/index.php/File:Alps_AKB-3420_-_back_of_key_caps.jpg \"Alps AKB-3420 - Keycaps with double-shot molding\") Alps AKB-3420 - Keycaps with double-shot molding \n*   [![Alps AKB-3420 - Alps PCB](https://wiki.themk.org/images/thumb/f/f2/Alps_AKB-3420_-_back_of_board.jpg/500px-Alps_AKB-3420_-_back_of_board.jpg)](https://wiki.themk.org/index.php/File:Alps_AKB-3420_-_back_of_board.jpg \"Alps AKB-3420 - Alps PCB\") Alps AKB-3420 - Alps PCB \n*   [![Alps-AKB-3420-Manual-1](https://wiki.themk.org/images/thumb/c/c5/Alps-AKB-3420-Manual-1.jpg/289px-Alps-AKB-3420-Manual-1.jpg)](https://wiki.themk.org/index.php/File:Alps-AKB-3420-Manual-1.jpg \"Alps-AKB-3420-Manual-1\") Alps-AKB-3420-Manual-1 \n*   [![Alps-AKB-3420-Manual-2](https://wiki.themk.org/images/thumb/1/13/Alps-AKB-3420-Manual-2.jpg/265px-Alps-AKB-3420-Manual-2.jpg)](https://wiki.themk.org/index.php/File:Alps-AKB-3420-Manual-2.jpg \"Alps-AKB-3420-Manual-2\") Alps-AKB-3420-Manual-2 \n*   [![Alps-AKB-3420-Manual-3](https://wiki.themk.org/images/thumb/e/ea/Alps-AKB-3420-Manual-3.jpg/289px-Alps-AKB-3420-Manual-3.jpg)](https://wiki.themk.org/index.php/File:Alps-AKB-3420-Manual-3.jpg \"Alps-AKB-3420-Manual-3\") Alps-AKB-3420-Manual-3 \n*   [![Alps-AKB-3420-Manual-4](https://wiki.themk.org/images/thumb/5/50/Alps-AKB-3420-Manual-4.jpg/289px-Alps-AKB-3420-Manual-4.jpg)](https://wiki.themk.org/index.php/File:Alps-AKB-3420-Manual-4.jpg \"Alps-AKB-3420-Manual-4\") Alps-AKB-3420-Manual-4 \n*   [![Alps-AKB-3420-Manual-5](https://wiki.themk.org/images/thumb/0/0b/Alps-AKB-3420-Manual-5.jpg/265px-Alps-AKB-3420-Manual-5.jpg)](https://wiki.themk.org/index.php/File:Alps-AKB-3420-Manual-5.jpg \"Alps-AKB-3420-Manual-5\") Alps-AKB-3420-Manual-5 \n*   [![Alps-AKB-3420-Manual-6](https://wiki.themk.org/images/thumb/7/7a/Alps-AKB-3420-Manual-6.jpg/289px-Alps-AKB-3420-Manual-6.jpg)](https://wiki.themk.org/index.php/File:Alps-AKB-3420-Manual-6.jpg \"Alps-AKB-3420-Manual-6\") Alps-AKB-3420-Manual-6 \n*   [![Alps-AKB-3420-Manual-7](https://wiki.themk.org/images/thumb/b/b1/Alps-AKB-3420-Manual-7.jpg/289px-Alps-AKB-3420-Manual-7.jpg)](https://wiki.themk.org/index.php/File:Alps-AKB-3420-Manual-7.jpg \"Alps-AKB-3420-Manual-7\") Alps-AKB-3420-Manual-7 \n*   [![Alps-AKB-3420-Manual-8](https://wiki.themk.org/images/thumb/2/2a/Alps-AKB-3420-Manual-8.jpg/289px-Alps-AKB-3420-Manual-8.jpg)](https://wiki.themk.org/index.php/File:Alps-AKB-3420-Manual-8.jpg \"Alps-AKB-3420-Manual-8\") Alps-AKB-3420-Manual-8 \n\nExternal links\n--------------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_AKB-3420&veaction=edit&section=6 \"Edit section: External links\") | [edit source](https://wiki.themk.org/index.php?title=Alps_AKB-3420&action=edit&section=6 \"Edit section's source code: External links\")\\]\n\n*   Deskthority — [Alps AKB-3420 vintage keyboard](http://deskthority.net/photos-f62/alps-akb-3420-vintage-keyboard-t12200.html) (ca. 1988 example)\n*   Imgur — [ALPS (SKCC CREAM) ASCII TERMINAL BOARD, DOCUMENTATION, ETC.](https://imgur.com/gallery/SyO9E) (ca. 1979 example)\n\nRetrieved from \"[https://wiki.themk.org/index.php?title=Alps\\_AKB-3420&oldid=44109](https://wiki.themk.org/index.php?title=Alps_AKB-3420&oldid=44109)\"\n\n[Categories](https://wiki.themk.org/index.php/Special:Categories \"Special:Categories\"):\n\n*   [Pages requiring illustration](https://wiki.themk.org/index.php/Category:Pages_requiring_illustration \"Category:Pages requiring illustration\")\n*   [Alps keyboards](https://wiki.themk.org/index.php/Category:Alps_keyboards \"Category:Alps keyboards\")\n*   [Keyboards with Alps SKCC switches](https://wiki.themk.org/index.php/Category:Keyboards_with_Alps_SKCC_switches \"Category:Keyboards with Alps SKCC switches\")\n*   [Vintage keyboards](https://wiki.themk.org/index.php/Category:Vintage_keyboards \"Category:Vintage keyboards\")\n*   [List of all keyboards](https://wiki.themk.org/index.php/Category:List_of_all_keyboards \"Category:List of all keyboards\")\n\nNavigation menu\n---------------\n\n### Page actions\n\n*   [Page](https://wiki.themk.org/index.php/Alps_AKB-3420 \"View the content page [alt-shift-c]\")\n*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_AKB-3420&action=edit&redlink=1 \"Discussion about the content page (page does not exist) [alt-shift-t]\")\n*   [Read](https://wiki.themk.org/index.php/Alps_AKB-3420)\n*   [Edit](https://wiki.themk.org/index.php?title=Alps_AKB-3420&veaction=edit \"Edit this page [alt-shift-v]\")\n*   [Edit source](https://wiki.themk.org/index.php?title=Alps_AKB-3420&action=edit \"Edit the source code of this page [alt-shift-e]\")\n*   [History](https://wiki.themk.org/index.php?title=Alps_AKB-3420&action=history \"Past revisions of this page [alt-shift-h]\")\n\n### Page actions\n\n*   [Page](https://wiki.themk.org/index.php/Alps_AKB-3420 \"Page\")\n*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_AKB-3420&action=edit&redlink=1 \" (page does not exist)\")\n*   [More](https://wiki.themk.org/index.php/Alps_AKB-3420#p-cactions)\n*   [Tools](https://wiki.themk.org/index.php/Alps_AKB-3420#p-tb \"Tools\")\n\n### Personal tools\n\n*   Not logged in\n*   [Talk](https://wiki.themk.org/index.php/Special:MyTalk \"Discussion about edits from this IP address [alt-shift-n]\")\n*   [Contributions](https://wiki.themk.org/index.php/Special:MyContributions \"A list of edits made from this IP address [alt-shift-y]\")\n*   [Create account](https://wiki.themk.org/index.php?title=Special:CreateAccount&returnto=Alps+AKB-3420 \"You are encouraged to create an account and log in; however, it is not mandatory\")\n*   [Log in](https://wiki.themk.org/index.php?title=Special:UserLogin&returnto=Alps+AKB-3420 \"You are encouraged to log in; however, it is not mandatory [alt-shift-o]\")\n\n[](https://wiki.themk.org/index.php/Main_Page) [](https://wiki.themk.org/index.php/Alps_AKB-3420#sidebar \"Jump to navigation\")[](https://wiki.themk.org/index.php/Alps_AKB-3420#p-personal \"user tools\")[](https://wiki.themk.org/index.php/Alps_AKB-3420#globalWrapper \"back to top\")",
+    "timestamp": "2025-08-28T18:30:05.529Z",
+    "jobId": "7a3ec94c-e9dc-4df5-943e-3d0dcbdf7413"
+  }
+}

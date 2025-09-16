@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "data": {
+    "url": "https://wiki.themk.org/index.php/Alps_SKBL_Yellow",
+    "type": "scrape",
+    "status": "completed",
+    "title": "Alps SKBL Yellow - Keyboard Wiki",
+    "metadata": [
+      {
+        "name": "generator",
+        "content": "MediaWiki 1.44.0"
+      },
+      {
+        "name": "robots",
+        "content": "max-image-preview:standard"
+      },
+      {
+        "name": "format-detection",
+        "content": "telephone=no"
+      },
+      {
+        "name": "og:image",
+        "content": "https://wiki.themk.org/images/a/ad/Alps_SKBL_Yellow_Top.png",
+        "property": "og:image"
+      },
+      {
+        "name": "og:image:width",
+        "content": "1200",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "832",
+        "property": "og:image:height"
+      },
+      {
+        "name": "og:image",
+        "content": "https://wiki.themk.org/images/thumb/a/ad/Alps_SKBL_Yellow_Top.png/800px-Alps_SKBL_Yellow_Top.png",
+        "property": "og:image"
+      },
+      {
+        "name": "og:image:width",
+        "content": "800",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "554",
+        "property": "og:image:height"
+      },
+      {
+        "name": "og:image",
+        "content": "https://wiki.themk.org/images/thumb/a/ad/Alps_SKBL_Yellow_Top.png/640px-Alps_SKBL_Yellow_Top.png",
+        "property": "og:image"
+      },
+      {
+        "name": "og:image:width",
+        "content": "640",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "444",
+        "property": "og:image:height"
+      },
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"
+      }
+    ],
+    "markdown": "Alps SKBL Yellow - Keyboard Wiki\n\nAlps SKBL Yellow\n================\n\nFrom Keyboard Wiki \n\n[Jump to navigation](https://wiki.themk.org/index.php/Alps_SKBL_Yellow#column-one)[Jump to search](https://wiki.themk.org/index.php/Alps_SKBL_Yellow#searchInput)\n\n*This article is a [stub](https://wiki.themk.org/index.php/Deskthority:stub \"Deskthority:stub\"). You can help Deskthority by [expanding it](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&action=edit).*\n\nAlps SKBL Yellow\n\n[![](https://wiki.themk.org/images/thumb/a/ad/Alps_SKBL_Yellow_Top.png/500px-Alps_SKBL_Yellow_Top.png)](https://wiki.themk.org/index.php/File:Alps_SKBL_Yellow_Top.png)\n\nManufacturer\n\n[Forward Electronics](https://wiki.themk.org/index.php/Forward_Electronics \"Forward Electronics\")\n\nFamily\n\n[Alps SKBL/SKBM series](https://wiki.themk.org/index.php/Alps_SKBL/SKBM_series \"Alps SKBL/SKBM series\")\n\nProduct code\n\nSKBLFE\n\nSwitch type\n\nLinear\n\nSense method\n\n[Metal leaf](https://wiki.themk.org/index.php/Contact_mechanism#Metal_leaf \"Contact mechanism\")\n\nActuation force\n\n60±25 gf\n\nKeycap mount\n\n[Alps mount](https://wiki.themk.org/index.php/Keycap_mount#Alps_mount \"Keycap mount\")\n\nSwitch mount\n\n[Plate mount](https://wiki.themk.org/index.php/Switch_mount#Plate_mount \"Switch mount\")\n\n**Alps SKBL Yellow** is a linear switch in the simplified [Alps SKBL/SKBM series](https://wiki.themk.org/index.php/Alps_SKBL/SKBM_series \"Alps SKBL/SKBM series\"). In contrast to complicated Alps switches, the specification for SKBLFE depicts it without an LED recess. The yellow slider colour is described in the specification. It might be reasonable to assume that Forward offered no comparable product to [Alps SKCL Yellow](https://wiki.themk.org/index.php/Alps_SKCL_Yellow \"Alps SKCL Yellow\"), otherwise Matias keyboards would not have needed Xiang Min switches for the keys with integrated LEDs.\n\nContents\n--------\n\n*   [1  Description](https://wiki.themk.org/index.php/Alps_SKBL_Yellow#Description)\n*   [2  Keyboards](https://wiki.themk.org/index.php/Alps_SKBL_Yellow#Keyboards)\n*   [3  Gallery](https://wiki.themk.org/index.php/Alps_SKBL_Yellow#Gallery)\n*   [4  Specifications](https://wiki.themk.org/index.php/Alps_SKBL_Yellow#Specifications)\n\nDescription\n-----------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&veaction=edit&section=1 \"Edit section: Description\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&action=edit&section=1 \"Edit section's source code: Description\")\\]\n\nAs with all [Alps SKBL/SKBM series](https://wiki.themk.org/index.php/Alps_SKBL/SKBM_series \"Alps SKBL/SKBM series\") switches, SKBL Yellow uses the simplified contact mechanism. The slider is a pale yellow, with a black top and bottom housing. Conforming to the specification sheet, it has no LED cutout unlike [Alps SKCL Yellow](https://wiki.themk.org/index.php/Alps_SKCL_Yellow \"Alps SKCL Yellow\") or [Alps SKCL Green](https://wiki.themk.org/index.php/Alps_SKCL_Green \"Alps SKCL Green\"). The spring is about 12mm long, which is longer than that of complicated Alps switches.\n\nThe weighting on the specification sheet appears to be inaccurate as the actual force appears to be much lower than 60gf. However, this is unconfirmed and based purely on speculation.\n\nKeyboards\n---------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&veaction=edit&section=2 \"Edit section: Keyboards\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&action=edit&section=2 \"Edit section's source code: Keyboards\")\\]\n\nThis switch has not knowingly been sighted in a keyboard. However, loose switches have been sighted.\n\nGallery\n-------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&veaction=edit&section=3 \"Edit section: Gallery\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&action=edit&section=3 \"Edit section's source code: Gallery\")\\]\n\nThe depicted switch was purchased NOS from Taobao.\n\n*   [![Top view; the Alps branding is upside-down compared to complicated Alps](https://wiki.themk.org/images/thumb/a/ad/Alps_SKBL_Yellow_Top.png/500px-Alps_SKBL_Yellow_Top.png)](https://wiki.themk.org/index.php/File:Alps_SKBL_Yellow_Top.png \"Top view; the Alps branding is upside-down compared to complicated Alps\") Top view; the Alps branding is upside-down compared to complicated Alps \n*   [![Fully disassembled](https://wiki.themk.org/images/thumb/5/5d/Alps_SKBL_Yellow_Disassembled.png/482px-Alps_SKBL_Yellow_Disassembled.png)](https://wiki.themk.org/index.php/File:Alps_SKBL_Yellow_Disassembled.png \"Fully disassembled\") Fully disassembled \n\nSpecifications\n--------------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&veaction=edit&section=4 \"Edit section: Specifications\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&action=edit&section=4 \"Edit section's source code: Specifications\")\\]\n\n*   [SKBLFE, 1999-09-11](https://wiki.themk.org/index.php/File:Forward_Electronics_--_spec_--_SKBLFE.pdf \"File:Forward Electronics -- spec -- SKBLFE.pdf\")\n\nRetrieved from \"[https://wiki.themk.org/index.php?title=Alps\\_SKBL\\_Yellow&oldid=49922](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&oldid=49922)\"\n\n[Categories](https://wiki.themk.org/index.php/Special:Categories \"Special:Categories\"):\n\n*   [Stubs](https://wiki.themk.org/index.php/Category:Stubs \"Category:Stubs\")\n*   [Alps SKBL/SKBM series](https://wiki.themk.org/index.php/Category:Alps_SKBL/SKBM_series \"Category:Alps SKBL/SKBM series\")\n*   [Keyboard switches with Alps mount](https://wiki.themk.org/index.php/Category:Keyboard_switches_with_Alps_mount \"Category:Keyboard switches with Alps mount\")\n*   [Metal contact switches](https://wiki.themk.org/index.php/Category:Metal_contact_switches \"Category:Metal contact switches\")\n*   [Linear switches](https://wiki.themk.org/index.php/Category:Linear_switches \"Category:Linear switches\")\n*   [List of all keyboard switches](https://wiki.themk.org/index.php/Category:List_of_all_keyboard_switches \"Category:List of all keyboard switches\")\n\nNavigation menu\n---------------\n\n### Page actions\n\n*   [Page](https://wiki.themk.org/index.php/Alps_SKBL_Yellow \"View the content page [alt-shift-c]\")\n*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_SKBL_Yellow&action=edit&redlink=1 \"Discussion about the content page (page does not exist) [alt-shift-t]\")\n*   [Read](https://wiki.themk.org/index.php/Alps_SKBL_Yellow)\n*   [Edit](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&veaction=edit \"Edit this page [alt-shift-v]\")\n*   [Edit source](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&action=edit \"Edit the source code of this page [alt-shift-e]\")\n*   [History](https://wiki.themk.org/index.php?title=Alps_SKBL_Yellow&action=history \"Past revisions of this page [alt-shift-h]\")\n\n### Page actions\n\n*   [Page](https://wiki.themk.org/index.php/Alps_SKBL_Yellow \"Page\")\n*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_SKBL_Yellow&action=edit&redlink=1 \" (page does not exist)\")\n*   [More](https://wiki.themk.org/index.php/Alps_SKBL_Yellow#p-cactions)\n*   [Tools](https://wiki.themk.org/index.php/Alps_SKBL_Yellow#p-tb \"Tools\")\n\n### Personal tools\n\n*   Not logged in\n*   [Talk](https://wiki.themk.org/index.php/Special:MyTalk \"Discussion about edits from this IP address [alt-shift-n]\")\n*   [Contributions](https://wiki.themk.org/index.php/Special:MyContributions \"A list of edits made from this IP address [alt-shift-y]\")\n*   [Create account](https://wiki.themk.org/index.php?title=Special:CreateAccount&returnto=Alps+SKBL+Yellow \"You are encouraged to create an account and log in; however, it is not mandatory\")\n*   [Log in](https://wiki.themk.org/index.php?title=Special:UserLogin&returnto=Alps+SKBL+Yellow \"You are encouraged to log in; however, it is not mandatory [alt-shift-o]\")\n\n[](https://wiki.themk.org/index.php/Main_Page) [](https://wiki.themk.org/index.php/Alps_SKBL_Yellow#sidebar \"Jump to navigation\")[](https://wiki.themk.org/index.php/Alps_SKBL_Yellow#p-personal \"user tools\")[](https://wiki.themk.org/index.php/Alps_SKBL_Yellow#globalWrapper \"back to top\")",
+    "timestamp": "2025-08-28T18:31:05.882Z",
+    "jobId": "d0069791-e654-4ff5-8787-ea904a50c99c"
+  }
+}

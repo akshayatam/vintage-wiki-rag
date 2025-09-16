@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "data": {
+    "url": "https://wiki.themk.org/index.php/Alps_SKCL_Amber",
+    "type": "scrape",
+    "status": "completed",
+    "title": "Alps SKCL Amber - Keyboard Wiki",
+    "metadata": [
+      {
+        "name": "generator",
+        "content": "MediaWiki 1.44.0"
+      },
+      {
+        "name": "robots",
+        "content": "max-image-preview:standard"
+      },
+      {
+        "name": "format-detection",
+        "content": "telephone=no"
+      },
+      {
+        "name": "og:image",
+        "content": "https://wiki.themk.org/images/thumb/3/3e/Skclamberclose.jpg/1200px-Skclamberclose.jpg",
+        "property": "og:image"
+      },
+      {
+        "name": "og:image:width",
+        "content": "1200",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "1110",
+        "property": "og:image:height"
+      },
+      {
+        "name": "og:image",
+        "content": "https://wiki.themk.org/images/thumb/3/3e/Skclamberclose.jpg/800px-Skclamberclose.jpg",
+        "property": "og:image"
+      },
+      {
+        "name": "og:image:width",
+        "content": "800",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "740",
+        "property": "og:image:height"
+      },
+      {
+        "name": "og:image",
+        "content": "https://wiki.themk.org/images/thumb/3/3e/Skclamberclose.jpg/640px-Skclamberclose.jpg",
+        "property": "og:image"
+      },
+      {
+        "name": "og:image:width",
+        "content": "640",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "592",
+        "property": "og:image:height"
+      },
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"
+      }
+    ],
+    "markdown": "Alps SKCL Amber - Keyboard Wiki\n\nAlps SKCL Amber\n===============\n\nFrom Keyboard Wiki \n\n[Jump to navigation](https://wiki.themk.org/index.php/Alps_SKCL_Amber#column-one)[Jump to search](https://wiki.themk.org/index.php/Alps_SKCL_Amber#searchInput)\n\nAlps SKCL Amber\n\n[![](https://wiki.themk.org/images/thumb/3/3e/Skclamberclose.jpg/500px-Skclamberclose.jpg)](https://wiki.themk.org/index.php/File:Skclamberclose.jpg)\n\nManufacturer\n\n[Alps Electric](https://wiki.themk.org/index.php/Alps_Electric \"Alps Electric\")\n\nFamily\n\n[Alps SKCL/SKCM series](https://wiki.themk.org/index.php/Alps_SKCL/SKCM_series \"Alps SKCL/SKCM series\")\n\nSwitch type\n\nLinear\n\nSense method\n\n[Metal leaf](https://wiki.themk.org/index.php/Contact_mechanism#Metal_leaf \"Contact mechanism\")\n\nKeycap mount\n\n[Alps mount](https://wiki.themk.org/index.php/Keycap_mount#Alps_mount \"Keycap mount\")\n\nSwitch mount\n\n[Plate mount](https://wiki.themk.org/index.php/Switch_mount#Plate_mount \"Switch mount\")\n\n**Alps SKCL Amber** is a linear switch in the \"complicated\" [Alps SKCL/SKCM series](https://wiki.themk.org/index.php/Alps_SKCL/SKCM_series \"Alps SKCL/SKCM series\"). This switch was only used as a spacebar switch for the Tandem 6526 keyboard and other Korean-made boards from the former Goldstar Alps partnership. This switch is known as the Korean version of [Alps SKCL Cream](https://wiki.themk.org/index.php/Alps_SKCL_Cream \"Alps SKCL Cream\"). The switch features long tabs similar to [Alps SKCL Green](https://wiki.themk.org/index.php/Alps_SKCL_Green \"Alps SKCL Green\") and has only been observed with tall grey switchplates.\n\nUnlike [Alps SKCL Striped Amber](https://wiki.themk.org/index.php/Alps_SKCL_Striped_Amber \"Alps SKCL Striped Amber\") this switch does not have any extra markings.\n\nVariants\n--------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKCL_Amber&veaction=edit&section=1 \"Edit section: Variants\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKCL_Amber&action=edit&section=1 \"Edit section's source code: Variants\")\\]\n\nKnown variants include:\n\nSwitchplate Color\n\nSwitchplate Length\n\nAlps Logo\n\nGeneration\n\nGrey\n\nLong\n\nNo Logo\n\nPine (with slits)\n\nKeyboards\n---------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKCL_Amber&veaction=edit&section=2 \"Edit section: Keyboards\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKCL_Amber&action=edit&section=2 \"Edit section's source code: Keyboards\")\\]\n\n*   Epson AP1003A\n*   Packard Bell KCLEA907L\n*   Tandem 6526 Terminal keyboard\n*   Visual Terminal keyboard (LK201 clone)\n\nGallery\n-------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKCL_Amber&veaction=edit&section=3 \"Edit section: Gallery\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKCL_Amber&action=edit&section=3 \"Edit section's source code: Gallery\")\\]\n\n*   [![SKCL Amber from a Tandem terminal keyboard](https://wiki.themk.org/images/thumb/8/8c/NVREPYn.jpg/499px-NVREPYn.jpg)](https://wiki.themk.org/index.php/File:NVREPYn.jpg \"SKCL Amber from a Tandem terminal keyboard\") SKCL Amber from a Tandem terminal keyboard \n*   [![Slider and top case, lube can be seen indicating it is a first generation switch](https://wiki.themk.org/images/thumb/4/42/C7JSv3r.jpg/499px-C7JSv3r.jpg)](https://wiki.themk.org/index.php/File:C7JSv3r.jpg \"Slider and top case, lube can be seen indicating it is a first generation switch\") Slider and top case, lube can be seen indicating it is a first generation switch \n*   [![Spring](https://wiki.themk.org/images/thumb/b/b3/Skclamberspring.jpg/499px-Skclamberspring.jpg)](https://wiki.themk.org/index.php/File:Skclamberspring.jpg \"Spring\") Spring \n*   [![Switchplate](https://wiki.themk.org/images/thumb/9/92/Skclamberswitchplate.jpg/499px-Skclamberswitchplate.jpg)](https://wiki.themk.org/index.php/File:Skclamberswitchplate.jpg \"Switchplate\") Switchplate \n*   [![Top](https://wiki.themk.org/images/thumb/4/49/Skclambertop.jpg/499px-Skclambertop.jpg)](https://wiki.themk.org/index.php/File:Skclambertop.jpg \"Top\") Top \n*   [![Long tabs can be seen](https://wiki.themk.org/images/thumb/f/f1/QzUSyX6.jpg/499px-QzUSyX6.jpg)](https://wiki.themk.org/index.php/File:QzUSyX6.jpg \"Long tabs can be seen\") Long tabs can be seen\n\nRetrieved from \"[https://wiki.themk.org/index.php?title=Alps\\_SKCL\\_Amber&oldid=50859](https://wiki.themk.org/index.php?title=Alps_SKCL_Amber&oldid=50859)\"\n\n[Categories](https://wiki.themk.org/index.php/Special:Categories \"Special:Categories\"):\n\n*   [Alps SKCL/SKCM series](https://wiki.themk.org/index.php/Category:Alps_SKCL/SKCM_series \"Category:Alps SKCL/SKCM series\")\n*   [Keyboard switches with Alps mount](https://wiki.themk.org/index.php/Category:Keyboard_switches_with_Alps_mount \"Category:Keyboard switches with Alps mount\")\n*   [Metal contact switches](https://wiki.themk.org/index.php/Category:Metal_contact_switches \"Category:Metal contact switches\")\n*   [Linear switches](https://wiki.themk.org/index.php/Category:Linear_switches \"Category:Linear switches\")\n*   [List of all keyboard switches](https://wiki.themk.org/index.php/Category:List_of_all_keyboard_switches \"Category:List of all keyboard switches\")\n\nNavigation menu\n---------------\n\n### Page actions\n\n*   [Page](https://wiki.themk.org/index.php/Alps_SKCL_Amber \"View the content page [ctrl-option-c]\")\n*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_SKCL_Amber&action=edit&redlink=1 \"Discussion about the content page (page does not exist) [ctrl-option-t]\")\n*   [Read](https://wiki.themk.org/index.php/Alps_SKCL_Amber)\n*   [Edit](https://wiki.themk.org/index.php?title=Alps_SKCL_Amber&veaction=edit \"Edit this page [ctrl-option-v]\")\n*   [Edit source](https://wiki.themk.org/index.php?title=Alps_SKCL_Amber&action=edit \"Edit the source code of this page [ctrl-option-e]\")\n*   [History](https://wiki.themk.org/index.php?title=Alps_SKCL_Amber&action=history \"Past revisions of this page [ctrl-option-h]\")\n\n### Page actions\n\n*   [Page](https://wiki.themk.org/index.php/Alps_SKCL_Amber \"Page\")\n*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_SKCL_Amber&action=edit&redlink=1 \" (page does not exist)\")\n*   [More](https://wiki.themk.org/index.php/Alps_SKCL_Amber#p-cactions)\n*   [Tools](https://wiki.themk.org/index.php/Alps_SKCL_Amber#p-tb \"Tools\")\n\n### Personal tools\n\n*   Not logged in\n*   [Talk](https://wiki.themk.org/index.php/Special:MyTalk \"Discussion about edits from this IP address [ctrl-option-n]\")\n*   [Contributions](https://wiki.themk.org/index.php/Special:MyContributions \"A list of edits made from this IP address [ctrl-option-y]\")\n*   [Create account](https://wiki.themk.org/index.php?title=Special:CreateAccount&returnto=Alps+SKCL+Amber \"You are encouraged to create an account and log in; however, it is not mandatory\")\n*   [Log in](https://wiki.themk.org/index.php?title=Special:UserLogin&returnto=Alps+SKCL+Amber \"You are encouraged to log in; however, it is not mandatory [ctrl-option-o]\")\n\n[](https://wiki.themk.org/index.php/Main_Page) [](https://wiki.themk.org/index.php/Alps_SKCL_Amber#sidebar \"Jump to navigation\")[](https://wiki.themk.org/index.php/Alps_SKCL_Amber#p-personal \"user tools\")[](https://wiki.themk.org/index.php/Alps_SKCL_Amber#globalWrapper \"back to top\")",
+    "timestamp": "2025-08-28T18:32:55.598Z",
+    "jobId": "7333d22c-6f2d-4e45-8f07-ba1dd6f831da"
+  }
+}

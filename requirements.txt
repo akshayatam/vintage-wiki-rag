@@ -1,0 +1,9 @@
+requests 
+python-dotenv 
+faiss-cpu 
+pydantic 
+fastapi 
+streamlit 
+sentence-transformers 
+uvicorn 
+rag 

@@ -1,0 +1,20 @@
+{"qid": "q1", "query": "Who manufactured Alps SKCM Blue switches?", "answers": ["Alps Electric"], "gold_ids": ["Alps_SKCM_Blue::0"]}
+{"qid": "q2", "query": "What is the actuation force of SKCM Blue?", "answers": ["70 gf"], "gold_ids": ["Alps_SKCM_Blue::0"]}
+{"qid": "q3", "query": "What type of switch is SKCM Blue?", "answers": ["Clicky"], "gold_ids": ["Alps_SKCM_Blue::0"]}
+{"qid": "q4", "query": "When was the Alps SKCL/SKCM series introduced?", "answers": ["1983"], "gold_ids": ["Alps_SKCL_SKCM_series::0"]}
+{"qid": "q5", "query": "What nickname is commonly used for Alps SKCL/SKCM switches?", "answers": ["Complicated Alps", "Alps Bigfoot"], "gold_ids": ["Alps_SKCL_SKCM_series::0"]}
+{"qid": "q6", "query": "What kind of switch is Alps SKCM Orange?", "answers": ["Tactile"], "gold_ids": ["Alps_SKCM_Orange::0"]}
+{"qid": "q7", "query": "What is the actuation force of Alps SKCL Yellow?", "answers": ["60 gf"], "gold_ids": ["Alps_SKCL_Yellow::0"]}
+{"qid": "q8", "query": "Which series does the SKCL Lock belong to?", "answers": ["Alps SKCL series"], "gold_ids": ["Alps_SKCL_Lock::0"]}
+{"qid": "q9", "query": "What is special about SKCL Lock switches?", "answers": ["Alternate action", "Latching action"], "gold_ids": ["Alps_SKCL_Lock::0"]}
+{"qid": "q10", "query": "What colors are variants of the SKCM Lock?", "answers": ["Brown", "Cream", "Grey"], "gold_ids": ["Alps_SKCL_Lock::0"]}
+{"qid": "q11", "query": "What is the rated lifetime of SKCL/SKCM series switches?", "answers": ["20M"], "gold_ids": ["Alps_SKCL_SKCM_series::0"]}
+{"qid": "q12", "query": "What switch type is Alps SKCM Brown?", "answers": ["Tactile"], "gold_ids": ["Alps_SKCM_Brown::0"]}
+{"qid": "q13", "query": "Which generation removed slits in Alps SKCL/SKCM switches?", "answers": ["Third generation", "1993-1996", "Bamboo generation"], "gold_ids": ["Alps_SKCL_SKCM_series::0"]}
+{"qid": "q14", "query": "What is the actuation force of Alps SKCM Salmon?", "answers": ["70 gf"], "gold_ids": ["Alps_SKCM_Salmon::0"]}
+{"qid": "q15", "query": "What is the sense method of Alps SKCM series?", "answers": ["Metal contact"], "gold_ids": ["Alps_SKCL_SKCM_series::0"]}
+{"qid": "q16", "query": "Which switch is nicknamed Taxi Yellow?", "answers": ["Alps SKCM Amber"], "gold_ids": ["Alps_SKCM_Amber::0"]}
+{"qid": "q17", "query": "Which Alps series replaced SKCL/SKCM?", "answers": ["Alps SKBL/SKBM series"], "gold_ids": ["Alps_SKCL_SKCM_series::0"]}
+{"qid": "q18", "query": "What switchplate types exist in SKCL/SKCM?", "answers": ["Long", "Short"], "gold_ids": ["Alps_SKCL_SKCM_series::0"]}
+{"qid": "q19", "query": "What color slider does SKCM White Damped use?", "answers": ["White"], "gold_ids": ["Alps_SKCM_White_Damped::0"]}
+{"qid": "q20", "query": "Which Alps switches are called Pine and Bamboo?", "answers": ["Pine = with slits", "Bamboo = without slits"], "gold_ids": ["Alps_SKCL_SKCM_series::0"]}

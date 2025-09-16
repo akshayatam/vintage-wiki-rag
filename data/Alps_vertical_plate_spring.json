@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "data": {
+    "url": "https://wiki.themk.org/index.php/Alps_vertical_plate_spring",
+    "type": "scrape",
+    "status": "completed",
+    "title": "Alps SKFF series - Keyboard Wiki",
+    "metadata": [
+      {
+        "name": "generator",
+        "content": "MediaWiki 1.44.0"
+      },
+      {
+        "name": "robots",
+        "content": "max-image-preview:standard"
+      },
+      {
+        "name": "format-detection",
+        "content": "telephone=no"
+      },
+      {
+        "name": "og:image",
+        "content": "https://wiki.themk.org/images/9/9d/Alps_Skff.jpg",
+        "property": "og:image"
+      },
+      {
+        "name": "og:image:width",
+        "content": "1200",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "1081",
+        "property": "og:image:height"
+      },
+      {
+        "name": "og:image",
+        "content": "https://wiki.themk.org/images/9/9d/Alps_Skff.jpg",
+        "property": "og:image"
+      },
+      {
+        "name": "og:image:width",
+        "content": "800",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "721",
+        "property": "og:image:height"
+      },
+      {
+        "name": "og:image:width",
+        "content": "640",
+        "property": "og:image:width"
+      },
+      {
+        "name": "og:image:height",
+        "content": "577",
+        "property": "og:image:height"
+      },
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"
+      }
+    ],
+    "markdown": "Alps SKFF series - Keyboard Wiki\n\nAlps SKFF series\n================\n\nFrom Keyboard Wiki (Redirected from [Alps vertical plate spring](https://wiki.themk.org/index.php?title=Alps_vertical_plate_spring&redirect=no \"Alps vertical plate spring\")) \n\n[Jump to navigation](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#column-one)[Jump to search](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#searchInput)\n\n*This article is a [stub](https://wiki.themk.org/index.php/Deskthority:stub \"Deskthority:stub\"). You can help Deskthority by [expanding it](https://wiki.themk.org/index.php?title=Alps_SKFF_series&action=edit).*\n\n![](https://wiki.themk.org/images/1/1a/Template_icon--Illustration.png)\n\nThis article requires photographic illustration\n\nAlps SKFF series\n\n[![](https://wiki.themk.org/images/9/9d/Alps_Skff.jpg)](https://wiki.themk.org/index.php/File:Alps_Skff.jpg)\n\nManufacturer\n\n[Alps Electric](https://wiki.themk.org/index.php/Alps_Electric \"Alps Electric\")\n\nInventor\n\nKatsuyuki Matsuo\n\nSwitch type\n\n[Clicky](https://wiki.themk.org/index.php/Clicky \"Clicky\")\n\nSense method\n\n[Metal leaf](https://wiki.themk.org/index.php/Metal_leaf \"Metal leaf\")\n\nKeycap mount\n\nGeneric cruciform\n\nPatents\n\n[US4186290](https://www.google.com/patents/US4186290) (1978)\n[US4249055](https://www.google.com/patents/US4249055) (1979)\n\n**Alps SKFF series**, or **Alps vertical plate spring**, is a switch that shares characteristics of both [Alps SKCP series](https://wiki.themk.org/index.php/Alps_SKCP_series \"Alps SKCP series\") and [Alps SKCC series](https://wiki.themk.org/index.php/Alps_SKCC_series \"Alps SKCC series\"). It is designed from the outset to support [double action](https://wiki.themk.org/index.php/Double_action \"Double action\").\n\nContents\n--------\n\n*   [1  Nomenclature](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#Nomenclature)\n*   [2  Description](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#Description)\n*   [3  Variants](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#Variants)\n*   [4  Keyboards](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#Keyboards)\n*   [5  Typewriters / Word Processors](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#Typewriters_/_Word_Processors)\n*   [6  References](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#References)\n\nNomenclature\n------------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFF_series&veaction=edit&section=1 \"Edit section: Nomenclature\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFF_series&action=edit&section=1 \"Edit section's source code: Nomenclature\")\\]\n\nThe Canon AP400 typewriter in which it was discovered bears the [Alps keyboard codes](https://wiki.themk.org/index.php/Alps_keyboard_codes \"Alps keyboard codes\") 12KF006C and KFFBA010; from this, (S)KFF was deduced. The [Apple III](https://wiki.themk.org/index.php/Apple_III \"Apple III\") service manual was subsequently found to cite these switches as \"KFF\". However, they remain listed here as SKFF until Alps's apparent inconsistent naming is better understood.\n\nDescription\n-----------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFF_series&veaction=edit&section=2 \"Edit section: Description\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFF_series&action=edit&section=2 \"Edit section's source code: Description\")\\]\n\nAlps vertical plate spring switches differ from plate spring by having the plate spring assembly mounted vertically down the side of the switch. This change results in the switch being significantly more complicated than the original plate spring switch. The repositioning of the plate spring assembly allows for two separate plate spring assemblies to be fitted side by side, with a staged actuation to provide a double action response to the host.\n\nThe switch is clicky, and the click sound created by inversion of the plate spring is specifically mentioned in both US patents.\n\nThe ziggurat design of the [slider](https://wiki.themk.org/index.php/Slider \"Slider\") is very similar to that of the [Alps SKCC series](https://wiki.themk.org/index.php/Alps_SKCC_series \"Alps SKCC series\") switch.\n\nThe switch exists in single action and double action variants, and supports a spring-mounted LED just as with SKCC series.\n\nTypically, the keystem is a small and cruciform. It has also been found with a tall, angled bar keystem assumed to be compatible with that of [Alps SKCC Side-Angled Cream](https://wiki.themk.org/index.php/Alps_SKCC_Side-Angled_Cream \"Alps SKCC Side-Angled Cream\"), both of which are from Swedish-made Facit typewriters.\n\nVariants\n--------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFF_series&veaction=edit&section=3 \"Edit section: Variants\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFF_series&action=edit&section=3 \"Edit section's source code: Variants\")\\]\n\nType\n\nNotes\n\n[![](https://wiki.themk.org/images/9/9d/Alps_Skff.jpg)](https://wiki.themk.org/index.php/File:Alps_Skff.jpg)\n\n[Alps SKFF White](https://wiki.themk.org/index.php?title=Alps_SKFF_White&action=edit&redlink=1 \"Alps SKFF White (page does not exist)\")\n\n[File:No photograph.svg](https://wiki.themk.org/index.php?title=Special:Upload&wpDestFile=No_photograph.svg \"File:No photograph.svg\")\n\n[Alps SKFF LED](https://wiki.themk.org/index.php?title=Alps_SKFF_LED&action=edit&redlink=1 \"Alps SKFF LED (page does not exist)\")\n\n[File:No photograph.svg](https://wiki.themk.org/index.php?title=Special:Upload&wpDestFile=No_photograph.svg \"File:No photograph.svg\")\n\n[Alps SKFF Bar Angled White](https://wiki.themk.org/index.php?title=Alps_SKFF_Bar_Angled_White&action=edit&redlink=1 \"Alps SKFF Bar Angled White (page does not exist)\")\n\n[![](https://wiki.themk.org/images/a/a6/Alps_skff_doubleaction_black.png)](https://wiki.themk.org/index.php/File:Alps_skff_doubleaction_black.png)\n\n[Alps SKFF Double Action Black](https://wiki.themk.org/index.php/Alps_SKFF_Double_Action_Black \"Alps SKFF Double Action Black\")\n\nSecond stage spring is external\n\n[File:No photograph.svg](https://wiki.themk.org/index.php?title=Special:Upload&wpDestFile=No_photograph.svg \"File:No photograph.svg\")\n\n[Alps SKFF Double Action White](https://wiki.themk.org/index.php/Alps_SKFF_Double_Action_White \"Alps SKFF Double Action White\")\n\nSecond stage spring assumed to be internal\n\nKeyboards\n---------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFF_series&veaction=edit&section=4 \"Edit section: Keyboards\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFF_series&action=edit&section=4 \"Edit section's source code: Keyboards\")\\]\n\n*   [Apple III](https://wiki.themk.org/index.php/Apple_III \"Apple III\") keyboards (double-action white and black)\n\nTypewriters / Word Processors\n-----------------------------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFF_series&veaction=edit&section=5 \"Edit section: Typewriters / Word Processors\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFF_series&action=edit&section=5 \"Edit section's source code: Typewriters / Word Processors\")\\]\n\n*   Some [Canon AP400 typewriters](https://wiki.themk.org/index.php/Canon_typewriters \"Canon typewriters\") (momentary, double-action black, illuminated; 1982 example)<ref name=\"DT-AP400\" />\n*   Facit 1880 (bar angled white)\n*   Facit 8111-2 (bar angled white; cross mount illuminated)<ref name=\"DT-Facit\" />\n*   Sharp ZX-400 (white; some illuminated, double-action black on spacebar, enter, backspace and other keys)\n*   Sharp ZX-510 (white; some illuminated, double-action black on spacebar)\n*   Silver Reed EX 77<ref name=\"silver\"/>\n\nReferences\n----------\n\n\\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFF_series&veaction=edit&section=6 \"Edit section: References\") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFF_series&action=edit&section=6 \"Edit section's source code: References\")\\]\n\n<references> <ref name=\"DT-AP400\">Deskthority — [Canon AP400](http://deskthority.net/photos-videos-f8/canon-ap400-t6707.html)</ref> <ref name=\"DT-Facit\">Deskthority — [Facit 8111-2 Typewriter](https://deskthority.net/photos-videos-f64/facit-8111-2-typewriter-t12424.html)</ref> <ref name=\"silver\">YouTube [Alps SKFF / Vertical Plate Spring Switch Sound Test | Silver Reed EX 77 Typewriter | ASMR](https://www.youtube.com/watch?v=99J-_DDWZjA&ab_channel=junebugvintage) Uploaded 01-17-2022.</ref> </references>\n\nRetrieved from \"[https://wiki.themk.org/index.php?title=Alps\\_SKFF\\_series&oldid=50624](https://wiki.themk.org/index.php?title=Alps_SKFF_series&oldid=50624)\"\n\n[Categories](https://wiki.themk.org/index.php/Special:Categories \"Special:Categories\"):\n\n*   [Stubs](https://wiki.themk.org/index.php/Category:Stubs \"Category:Stubs\")\n*   [Pages requiring illustration](https://wiki.themk.org/index.php/Category:Pages_requiring_illustration \"Category:Pages requiring illustration\")\n*   [Pages with broken file links](https://wiki.themk.org/index.php/Category:Pages_with_broken_file_links \"Category:Pages with broken file links\")\n*   [Alps switches](https://wiki.themk.org/index.php/Category:Alps_switches \"Category:Alps switches\")\n*   [Clicky switches](https://wiki.themk.org/index.php/Category:Clicky_switches \"Category:Clicky switches\")\n*   [Illuminated switches](https://wiki.themk.org/index.php/Category:Illuminated_switches \"Category:Illuminated switches\")\n*   [Metal contact switches](https://wiki.themk.org/index.php/Category:Metal_contact_switches \"Category:Metal contact switches\")\n*   [Double action switches](https://wiki.themk.org/index.php/Category:Double_action_switches \"Category:Double action switches\")\n*   [List of all keyboard switches](https://wiki.themk.org/index.php/Category:List_of_all_keyboard_switches \"Category:List of all keyboard switches\")\n\nNavigation menu\n---------------\n\n### Page actions\n\n*   [Page](https://wiki.themk.org/index.php/Alps_SKFF_series \"View the content page [alt-shift-c]\")\n*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_SKFF_series&action=edit&redlink=1 \"Discussion about the content page (page does not exist) [alt-shift-t]\")\n*   [Read](https://wiki.themk.org/index.php/Alps_SKFF_series)\n*   [Edit](https://wiki.themk.org/index.php?title=Alps_SKFF_series&veaction=edit \"Edit this page [alt-shift-v]\")\n*   [Edit source](https://wiki.themk.org/index.php?title=Alps_SKFF_series&action=edit \"Edit the source code of this page [alt-shift-e]\")\n*   [History](https://wiki.themk.org/index.php?title=Alps_SKFF_series&action=history \"Past revisions of this page [alt-shift-h]\")\n\n### Page actions\n\n*   [Page](https://wiki.themk.org/index.php/Alps_SKFF_series \"Page\")\n*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_SKFF_series&action=edit&redlink=1 \" (page does not exist)\")\n*   [More](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#p-cactions)\n*   [Tools](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#p-tb \"Tools\")\n\n### Personal tools\n\n*   Not logged in\n*   [Talk](https://wiki.themk.org/index.php/Special:MyTalk \"Discussion about edits from this IP address [alt-shift-n]\")\n*   [Contributions](https://wiki.themk.org/index.php/Special:MyContributions \"A list of edits made from this IP address [alt-shift-y]\")\n*   [Create account](https://wiki.themk.org/index.php?title=Special:CreateAccount&returnto=Alps+SKFF+series \"You are encouraged to create an account and log in; however, it is not mandatory\")\n*   [Log in](https://wiki.themk.org/index.php?title=Special:UserLogin&returnto=Alps+SKFF+series \"You are encouraged to log in; however, it is not mandatory [alt-shift-o]\")\n\n[](https://wiki.themk.org/index.php/Main_Page) [](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#sidebar \"Jump to navigation\")[](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#p-personal \"user tools\")[](https://wiki.themk.org/index.php/Alps_vertical_plate_spring#globalWrapper \"back to top\")",
+    "timestamp": "2025-08-28T18:39:08.946Z",
+    "jobId": "1d31cde3-9208-4668-a40f-515867b53157"
+  }
+}

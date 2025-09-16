@@ -1,0 +1,14 @@
+[theme]
+base = "light"  # keeps contrast predictable
+primaryColor = "#7D8D86"           # accents, slider, buttons
+backgroundColor = "#F1F0E4"        # page background
+secondaryBackgroundColor = "#BCA88D" # cards / sidebar / widgets
+textColor = "#3E3F29"              # main text
+font = "sans serif"                # or "monospace", "serif"
+
+# optional: general app defaults
+[client]
+showSidebarNavigation = false
+
+[server]
+headless = true
