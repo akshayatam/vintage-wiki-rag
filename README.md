@@ -1,7 +1,25 @@
-# vintage-wiki-rag
+# vintage-wiki-rag ⌨️
 
-A retrieval-augmented generation (RAG) app for exploring vintage mechanical keyboard knowledge. 
+A retrieval-augmented generation (RAG) app for exploring **vintage mechanical keyboard knowledge**.  
+Built on embeddings + FAISS vector search, it lets you query the Mechanical Keyboard Club Wiki (the community-driven successor to Deskthority).  
 
-The project ingests pages from the Mechanical Keyboard Club Wiki (successor to the Deskthority Wiki), normalizes them, and makes them searchable through embeddings + vector search.
+https://github.com/akshayatam/vintage-wiki-rag/assets/demo.mp4
 
-Currently, the system focuses on Alps Electric switches (~160 articles), with plans to expand to the entire ~3,000-page wiki.
+---
+
+### 🔎 Current Features
+- Indexed **~160 Alps Electric switch pages** (e.g. SKCL, SKCM, plate spring, magnetic reed).
+- Fast semantic search with top-k ranked answers.
+- Streamlit UI + FastAPI backend, linking directly to source wiki pages.
+
+### 🚧 Working On
+- Expanding to **Cherry switches** -> full keyboard data (~3,000 pages).
+- Adding **evaluation metrics** (Recall@k, MRR) for retrieval quality.
+- Enabling broader RAG workflows (answer synthesis, citations).
+
+---
+
+### 🛠️ Tech Stack
+- **Python**, **Streamlit**, **FastAPI**  
+- **SentenceTransformers** for embeddings  
+- **FAISS** for vector search  
