@@ -3,11 +3,7 @@
 A retrieval-augmented generation (RAG) app for exploring **vintage mechanical keyboard knowledge**.  
 Built on embeddings + FAISS vector search, it lets you query the Mechanical Keyboard Club Wiki (the community-driven successor to Deskthority).  
 
-<p align="center">
-  <video src="assets/demo.mp4" width="700" autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/user-attachments/assets/bfaa6a53-e3d5-4b40-98c3-a9e6471d4963
 
 ---
 
