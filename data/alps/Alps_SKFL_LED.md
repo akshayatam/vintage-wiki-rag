@@ -1,0 +1,163 @@
+Alps SKFL LED - Keyboard Wiki
+
+Alps SKFL LED
+=============
+
+From Keyboard Wiki 
+
+[Jump to navigation](https://wiki.themk.org/index.php/Alps_SKFL_LED#column-one)[Jump to search](https://wiki.themk.org/index.php/Alps_SKFL_LED#searchInput)
+
+*This article is a [stub](https://wiki.themk.org/index.php/Deskthority:stub "Deskthority:stub"). You can help Deskthority by [expanding it](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&action=edit).*
+
+Alps SKFL LED
+
+[![](https://wiki.themk.org/images/thumb/9/9c/Alps_SKFL_LED_--_angled_view.jpg/500px-Alps_SKFL_LED_--_angled_view.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_angled_view.jpg)
+
+Manufacturer
+
+[Alps Electric](https://wiki.themk.org/index.php/Alps_Electric "Alps Electric")
+
+Family
+
+[Alps SKFL](https://wiki.themk.org/index.php/Alps_SKFL "Alps SKFL")
+
+Product code
+
+SKFL or SKFLxx
+
+Switch type
+
+Linear
+
+Sense method
+
+Metal leaf
+
+Total travel
+
+ca. 3.7 mm
+
+Keycap mount
+
+[Alps mount](https://wiki.themk.org/index.php/Alps_mount "Alps mount") (variation)
+
+Switch mount
+
+[PCB mount](https://wiki.themk.org/index.php/PCB_mount "PCB mount")
+
+**Alps SKFL LED** is the integrated LED version of the [Alps SKFL](https://wiki.themk.org/index.php/Alps_SKFL "Alps SKFL") switch. The only difference between the two switches is the lid, which with SKFL LED has a hole for the LED.
+
+Contents
+--------
+
+*   [1  Keyboards](https://wiki.themk.org/index.php/Alps_SKFL_LED#Keyboards)
+*   [2  Other equipment](https://wiki.themk.org/index.php/Alps_SKFL_LED#Other_equipment)
+*   [3  Gallery](https://wiki.themk.org/index.php/Alps_SKFL_LED#Gallery)
+    *   [3.1  Disassembly](https://wiki.themk.org/index.php/Alps_SKFL_LED#Disassembly)
+*   [4  See also](https://wiki.themk.org/index.php/Alps_SKFL_LED#See_also)
+*   [5  References](https://wiki.themk.org/index.php/Alps_SKFL_LED#References)
+
+Keyboards
+---------
+
+\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&veaction=edit&section=1 "Edit section: Keyboards") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&action=edit&section=1 "Edit section's source code: Keyboards")\]
+
+*   Sharp PC-7000 portable (LED keys only; the remaining switches use [Alps integrated dome](https://wiki.themk.org/index.php/Alps_integrated_dome "Alps integrated dome") switches)<ref name="Sharp-PC-7000" />
+
+Other equipment
+---------------
+
+\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&veaction=edit&section=2 "Edit section: Other equipment") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&action=edit&section=2 "Edit section's source code: Other equipment")\]
+
+*   Roland TR-909<ref name="Roland\_TR909" />
+
+Gallery
+-------
+
+\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&veaction=edit&section=3 "Edit section: Gallery") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&action=edit&section=3 "Edit section's source code: Gallery")\]
+
+The loose switches below were part of a Technology Transplant Roland TR-909 Red Switch Set purchased from Musikhaus Korn in Germany.
+
+*   [![SKFL LED switches](https://wiki.themk.org/images/thumb/5/58/Alps_SKFL_LED_--_assorted.jpg/499px-Alps_SKFL_LED_--_assorted.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_assorted.jpg "SKFL LED switches") SKFL LED switches 
+*   [![Top](https://wiki.themk.org/images/thumb/9/9c/Alps_SKFL_LED_--_angled_view.jpg/499px-Alps_SKFL_LED_--_angled_view.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_angled_view.jpg "Top") Top 
+*   [![Side](https://wiki.themk.org/images/thumb/a/a6/Alps_SKFL_LED_--_side.jpg/499px-Alps_SKFL_LED_--_side.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_side.jpg "Side") Side 
+*   [![Rear, side](https://wiki.themk.org/images/thumb/6/63/Alps_SKFL_LED_--_rear_angled_view.jpg/499px-Alps_SKFL_LED_--_rear_angled_view.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_rear_angled_view.jpg "Rear, side") Rear, side 
+*   [![Rear](https://wiki.themk.org/images/thumb/a/a5/Alps_SKFL_LED_--_rear_view.jpg/499px-Alps_SKFL_LED_--_rear_view.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_rear_view.jpg "Rear") Rear 
+*   [![Bottom](https://wiki.themk.org/images/thumb/c/c4/Alps_SKFL_LED_--_bottom_view.jpg/499px-Alps_SKFL_LED_--_bottom_view.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_bottom_view.jpg "Bottom") Bottom 
+*   [![Ledge in LED slot](https://wiki.themk.org/images/thumb/b/be/Alps_SKFL_LED_--_LED_slot_with_ledge.jpg/499px-Alps_SKFL_LED_--_LED_slot_with_ledge.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_LED_slot_with_ledge.jpg "Ledge in LED slot") Ledge in LED slot 
+*   [![Retention clip in LED slot](https://wiki.themk.org/images/thumb/1/14/Alps_SKFL_LED_--_LED_slot_with_retention_clip.jpg/499px-Alps_SKFL_LED_--_LED_slot_with_retention_clip.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_LED_slot_with_retention_clip.jpg "Retention clip in LED slot") Retention clip in LED slot 
+*   [![LED partially removed](https://wiki.themk.org/images/thumb/1/19/Alps_SKFL_LED_--_bottom_view_with_LED_partially_removed.jpg/499px-Alps_SKFL_LED_--_bottom_view_with_LED_partially_removed.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_bottom_view_with_LED_partially_removed.jpg "LED partially removed") LED partially removed 
+*   [![LED removed](https://wiki.themk.org/images/thumb/1/18/Alps_SKFL_LED_--_bottom_view_with_LED_removed.jpg/499px-Alps_SKFL_LED_--_bottom_view_with_LED_removed.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_bottom_view_with_LED_removed.jpg "LED removed") LED removed 
+*   [![LED fitted and removed](https://wiki.themk.org/images/thumb/8/8c/Alps_SKFL_LED_--_LED_fitted_vs_removed.jpg/499px-Alps_SKFL_LED_--_LED_fitted_vs_removed.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_LED_fitted_vs_removed.jpg "LED fitted and removed") LED fitted and removed 
+*   [![Switch opened](https://wiki.themk.org/images/thumb/e/e2/Alps_SKFL_LED_--_opened.jpg/499px-Alps_SKFL_LED_--_opened.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_opened.jpg "Switch opened") Switch opened 
+*   [![Switch opened](https://wiki.themk.org/images/thumb/d/df/Alps_SKFL_LED_--_opened%2C_from_rear.jpg/499px-Alps_SKFL_LED_--_opened%2C_from_rear.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_opened,_from_rear.jpg "Switch opened") Switch opened 
+*   [![Contact frame partially removed](https://wiki.themk.org/images/thumb/e/e7/Alps_SKFL_LED_--_contact_frame_partially_removed.jpg/499px-Alps_SKFL_LED_--_contact_frame_partially_removed.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_contact_frame_partially_removed.jpg "Contact frame partially removed") Contact frame partially removed 
+*   [![Contact frame, front view](https://wiki.themk.org/images/thumb/1/16/Alps_SKFL_--_contact_frame%2C_front.jpg/499px-Alps_SKFL_--_contact_frame%2C_front.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_--_contact_frame,_front.jpg "Contact frame, front view") Contact frame, front view 
+*   [![Contact frame, front view, top](https://wiki.themk.org/images/thumb/4/45/Alps_SKFL_--_contact_frame%2C_front_top.jpg/497px-Alps_SKFL_--_contact_frame%2C_front_top.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_--_contact_frame,_front_top.jpg "Contact frame, front view, top") Contact frame, front view, top 
+*   [![Contact frame, rear view](https://wiki.themk.org/images/thumb/a/a7/Alps_SKFL_--_contact_frame%2C_rear.jpg/499px-Alps_SKFL_--_contact_frame%2C_rear.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_--_contact_frame,_rear.jpg "Contact frame, rear view") Contact frame, rear view 
+*   [![Disassembled, top views](https://wiki.themk.org/images/thumb/d/d0/Alps_SKFL_LED_--_disassembled%2C_top_views.jpg/499px-Alps_SKFL_LED_--_disassembled%2C_top_views.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_disassembled,_top_views.jpg "Disassembled, top views") Disassembled, top views 
+*   [![Disassembled, bottom views](https://wiki.themk.org/images/thumb/0/05/Alps_SKFL_LED_--_disassembled%2C_bottom_views.jpg/499px-Alps_SKFL_LED_--_disassembled%2C_bottom_views.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_disassembled,_bottom_views.jpg "Disassembled, bottom views") Disassembled, bottom views 
+
+### Disassembly
+
+\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&veaction=edit&section=4 "Edit section: Disassembly") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&action=edit&section=4 "Edit section's source code: Disassembly")\]
+
+Attempting to disassemble the switch is difficult and likely to cause damage. Inserting a screwdriver to release the sides of the lid will tear apart the switch, and gripping the legs of the lid will flatten them and lose their distinctive shape.
+
+*   [![Side strip opens abruptly](https://wiki.themk.org/images/thumb/7/7e/Alps_SKFL_LED_--_switch_open_damage_1.jpg/499px-Alps_SKFL_LED_--_switch_open_damage_1.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_switch_open_damage_1.jpg "Side strip opens abruptly") Side strip opens abruptly 
+*   [![Side strip support lugs snap easily](https://wiki.themk.org/images/thumb/5/53/Alps_SKFL_LED_--_switch_open_damage_2.jpg/499px-Alps_SKFL_LED_--_switch_open_damage_2.jpg)](https://wiki.themk.org/index.php/File:Alps_SKFL_LED_--_switch_open_damage_2.jpg "Side strip support lugs snap easily") Side strip support lugs snap easily 
+
+See also
+--------
+
+\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&veaction=edit&section=5 "Edit section: See also") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&action=edit&section=5 "Edit section's source code: See also")\]
+
+*   [Alps SKFL Compact](https://wiki.themk.org/index.php/Alps_SKFL_Compact "Alps SKFL Compact")
+*   [Alps SKFL Lock](https://wiki.themk.org/index.php/Alps_SKFL_Lock "Alps SKFL Lock")
+
+References
+----------
+
+\[[edit](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&veaction=edit&section=6 "Edit section: References") | [edit source](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&action=edit&section=6 "Edit section's source code: References")\]
+
+<references> <ref name="Sharp-PC-7000">Deskthority — [Tulip LT 286](http://deskthority.net/photos-videos-f8/tulip-lt-286-t6566.html)</ref> <ref name="Roland\_TR909">Musikhaus Korn — [Technology Transplant Roland TR-909 Red Switch Set](https://www.musikhaus-korn.de/de/Technology-Transplant-Roland-TR-909-Red-Switch-Set.html) (German) Retrieved 2015-07-22.</ref> </references>
+
+Retrieved from "[https://wiki.themk.org/index.php?title=Alps\_SKFL\_LED&oldid=36460](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&oldid=36460)"
+
+[Categories](https://wiki.themk.org/index.php/Special:Categories "Special:Categories"):
+
+*   [Stubs](https://wiki.themk.org/index.php/Category:Stubs "Category:Stubs")
+*   [Alps switches](https://wiki.themk.org/index.php/Category:Alps_switches "Category:Alps switches")
+*   [Metal contact switches](https://wiki.themk.org/index.php/Category:Metal_contact_switches "Category:Metal contact switches")
+*   [Keyboard switches with Alps mount](https://wiki.themk.org/index.php/Category:Keyboard_switches_with_Alps_mount "Category:Keyboard switches with Alps mount")
+*   [Linear switches](https://wiki.themk.org/index.php/Category:Linear_switches "Category:Linear switches")
+*   [List of all keyboard switches](https://wiki.themk.org/index.php/Category:List_of_all_keyboard_switches "Category:List of all keyboard switches")
+
+Navigation menu
+---------------
+
+### Page actions
+
+*   [Page](https://wiki.themk.org/index.php/Alps_SKFL_LED "View the content page [c]")
+*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_SKFL_LED&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+*   [Read](https://wiki.themk.org/index.php/Alps_SKFL_LED)
+*   [Edit](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&veaction=edit "Edit this page [v]")
+*   [Edit source](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&action=edit "Edit the source code of this page [e]")
+*   [History](https://wiki.themk.org/index.php?title=Alps_SKFL_LED&action=history "Past revisions of this page [h]")
+
+### Page actions
+
+*   [Page](https://wiki.themk.org/index.php/Alps_SKFL_LED "Page")
+*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_SKFL_LED&action=edit&redlink=1 " (page does not exist)")
+*   [More](https://wiki.themk.org/index.php/Alps_SKFL_LED#p-cactions)
+*   [Tools](https://wiki.themk.org/index.php/Alps_SKFL_LED#p-tb "Tools")
+
+### Personal tools
+
+*   Not logged in
+*   [Talk](https://wiki.themk.org/index.php/Special:MyTalk "Discussion about edits from this IP address [n]")
+*   [Contributions](https://wiki.themk.org/index.php/Special:MyContributions "A list of edits made from this IP address [y]")
+*   [Create account](https://wiki.themk.org/index.php?title=Special:CreateAccount&returnto=Alps+SKFL+LED "You are encouraged to create an account and log in; however, it is not mandatory")
+*   [Log in](https://wiki.themk.org/index.php?title=Special:UserLogin&returnto=Alps+SKFL+LED "You are encouraged to log in; however, it is not mandatory [o]")
+
+[](https://wiki.themk.org/index.php/Main_Page) [](https://wiki.themk.org/index.php/Alps_SKFL_LED#sidebar "Jump to navigation")[](https://wiki.themk.org/index.php/Alps_SKFL_LED#p-personal "user tools")[](https://wiki.themk.org/index.php/Alps_SKFL_LED#globalWrapper "back to top")

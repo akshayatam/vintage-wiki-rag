@@ -1,0 +1,91 @@
+Alps Spring Bridge - Keyboard Wiki
+
+Alps Spring Bridge
+==================
+
+From Keyboard Wiki (Redirected from [Alps SSCH series](https://wiki.themk.org/index.php?title=Alps_SSCH_series&redirect=no "Alps SSCH series")) 
+
+[Jump to navigation](https://wiki.themk.org/index.php/Alps_SSCH_series#column-one)[Jump to search](https://wiki.themk.org/index.php/Alps_SSCH_series#searchInput)
+
+Alps Spring Bridge
+
+[![](https://wiki.themk.org/images/thumb/5/59/SSCH_White_Metal.jpg/500px-SSCH_White_Metal.jpg)](https://wiki.themk.org/index.php/File:SSCH_White_Metal.jpg)
+
+Manufacturer
+
+[Alps Electric](https://wiki.themk.org/index.php/Alps_Electric "Alps Electric")
+
+Introduced
+
+Pre-1980s
+
+Switch type
+
+Linear
+
+Switch mount
+
+[Plate mount](https://wiki.themk.org/index.php/Plate_mount "Plate mount")
+
+**Alps Spring Bridge** Is the apparent forerunner of the [Alps SKCC series](https://wiki.themk.org/index.php/Alps_SKCC_series "Alps SKCC series"), and shares a similar mount to [SKCC grey](https://wiki.themk.org/index.php/Alps_SKCC_Grey "Alps SKCC Grey") and [SKCC tall cream](https://wiki.themk.org/index.php/Alps_SKCC_Tall_Cream "Alps SKCC Tall Cream") as well as the same plate cutout and a one way compatible PCB where Spring Bridge can be replaced with SKCC.<ref name="Monroe 1405" /> In most examples the switch uses a cruciform mount and keycaps use a cruciform slot however in the [Olympia CD 102](https://wiki.themk.org/index.php?title=Olympia_CD_102&action=edit&redlink=1 "Olympia CD 102 (page does not exist)") the caps clip onto the rod in the slider itself whereas other examples of the switch have a 2-part slider with a cruciform stem.<ref name="Retro Alps Switch" /> Production dates prior to 1980 and at least as early as 1975 and appears to have been halted around the introduction of SKCC series. While no confirmed 4 letter name for the switch is confirmed, one possible name of SKCH can be derived from the CH found on PCBs with this switch as well as the SCH designation found on several ALPS keyboards.<ref name="Alps series names and model numbers" />
+
+Description
+-----------
+
+\[[edit](https://wiki.themk.org/index.php?title=Alps_Spring_Bridge&veaction=edit&section=1 "Edit section: Description") | [edit source](https://wiki.themk.org/index.php?title=Alps_Spring_Bridge&action=edit&section=1 "Edit section's source code: Description")\]
+
+The earliest examples of the switch include 9 parts, a top housing, bottom housing, slider, brass slider peg, external coil spring, slider top, metal top clip, contact PCB and contact spring. Later revisions of the switch exclude a metal top clip and integrate the functions of that part, holding the top and bottom housings together and holding the switch into the plate, into the top housing. The colours of the top housing, bottom housing, and the slider top appear to vary as well with later examples but the timeline for these changes is not known and neither is the significance these colour variations may indicate.<ref name="Four interesting Alps switches" />
+
+The bottom housing bears the oval Alps logo on the bottom.
+
+*   [![The switch is similar in many ways to SKCC grey](https://wiki.themk.org/images/thumb/8/80/SSCH_White_Metal_with_SKCC_Grey.jpg/240px-SSCH_White_Metal_with_SKCC_Grey.jpg)](https://wiki.themk.org/index.php/File:SSCH_White_Metal_with_SKCC_Grey.jpg) 
+    
+*   [![The bottom of a spring bridge switch showing the ALPS logo](https://wiki.themk.org/images/thumb/2/25/SSCH_White_Metal_Bottom.jpg/240px-SSCH_White_Metal_Bottom.jpg)](https://wiki.themk.org/index.php/File:SSCH_White_Metal_Bottom.jpg) 
+    
+*   [![A fully disassembled switch save for the slider peg which cannot be removed non-destructively](https://wiki.themk.org/images/thumb/3/3e/SSCH_White_Metal_Disassembled.jpg/240px-SSCH_White_Metal_Disassembled.jpg)](https://wiki.themk.org/index.php/File:SSCH_White_Metal_Disassembled.jpg) 
+    
+
+References
+----------
+
+\[[edit](https://wiki.themk.org/index.php?title=Alps_Spring_Bridge&veaction=edit&section=2 "Edit section: References") | [edit source](https://wiki.themk.org/index.php?title=Alps_Spring_Bridge&action=edit&section=2 "Edit section's source code: References")\]
+
+<references> <ref name="Monroe 1405">Deskthority — [Monroe 1405](https://deskthority.net/viewtopic.php?f=62&t=25106) Retrieved 2021-01-12.</ref> <ref name="Retro Alps Switch">Imgur — [Retro Alps Switch](https://imgur.com/gallery/IMTsl) Retrieved 2021-01-12.</ref> <ref name="Four interesting Alps switches">Deskthority — [Four interesting Alps switches](https://deskthority.net/viewtopic.php?f=62&t=22325) Retrieved 2021-01-12.</ref> <ref name="Alps series names and model numbers">telcontar — [Alps series names and model numbers](https://telcontar.net/KBK/Alps/model_numbers) Retrieved 2021-01-12.</ref> </references>
+
+Retrieved from "[https://wiki.themk.org/index.php?title=Alps\_Spring\_Bridge&oldid=48313](https://wiki.themk.org/index.php?title=Alps_Spring_Bridge&oldid=48313)"
+
+[Categories](https://wiki.themk.org/index.php/Special:Categories "Special:Categories"):
+
+*   [Alps switches](https://wiki.themk.org/index.php/Category:Alps_switches "Category:Alps switches")
+*   [Metal contact switches](https://wiki.themk.org/index.php/Category:Metal_contact_switches "Category:Metal contact switches")
+*   [Linear switches](https://wiki.themk.org/index.php/Category:Linear_switches "Category:Linear switches")
+*   [List of all keyboard switches](https://wiki.themk.org/index.php/Category:List_of_all_keyboard_switches "Category:List of all keyboard switches")
+
+Navigation menu
+---------------
+
+### Page actions
+
+*   [Page](https://wiki.themk.org/index.php/Alps_Spring_Bridge "View the content page [c]")
+*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_Spring_Bridge&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+*   [Read](https://wiki.themk.org/index.php/Alps_Spring_Bridge)
+*   [Edit](https://wiki.themk.org/index.php?title=Alps_Spring_Bridge&veaction=edit "Edit this page [v]")
+*   [Edit source](https://wiki.themk.org/index.php?title=Alps_Spring_Bridge&action=edit "Edit the source code of this page [e]")
+*   [History](https://wiki.themk.org/index.php?title=Alps_Spring_Bridge&action=history "Past revisions of this page [h]")
+
+### Page actions
+
+*   [Page](https://wiki.themk.org/index.php/Alps_Spring_Bridge "Page")
+*   [Discussion](https://wiki.themk.org/index.php?title=Talk:Alps_Spring_Bridge&action=edit&redlink=1 " (page does not exist)")
+*   [More](https://wiki.themk.org/index.php/Alps_SSCH_series#p-cactions)
+*   [Tools](https://wiki.themk.org/index.php/Alps_SSCH_series#p-tb "Tools")
+
+### Personal tools
+
+*   Not logged in
+*   [Talk](https://wiki.themk.org/index.php/Special:MyTalk "Discussion about edits from this IP address [n]")
+*   [Contributions](https://wiki.themk.org/index.php/Special:MyContributions "A list of edits made from this IP address [y]")
+*   [Create account](https://wiki.themk.org/index.php?title=Special:CreateAccount&returnto=Alps+Spring+Bridge "You are encouraged to create an account and log in; however, it is not mandatory")
+*   [Log in](https://wiki.themk.org/index.php?title=Special:UserLogin&returnto=Alps+Spring+Bridge "You are encouraged to log in; however, it is not mandatory [o]")
+
+[](https://wiki.themk.org/index.php/Main_Page) [](https://wiki.themk.org/index.php/Alps_SSCH_series#sidebar "Jump to navigation")[](https://wiki.themk.org/index.php/Alps_SSCH_series#p-personal "user tools")[](https://wiki.themk.org/index.php/Alps_SSCH_series#globalWrapper "back to top")
