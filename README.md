@@ -15,7 +15,8 @@ https://github.com/user-attachments/assets/bfaa6a53-e3d5-4b40-98c3-a9e6471d4963
 ### 🚧 Working On
 - Expanding to **Cherry switches** -> full keyboard data (~3,000 pages).
 - Adding **evaluation metrics** (Recall@k, MRR) for retrieval quality.
-- Enabling broader RAG workflows (answer synthesis, citations).
+- Enabling broader RAG workflows (answer synthesis, citations). 
+- Working on ReAct (Reason + Action) style model using Nvidia's Nemotron model
 
 ---
 
