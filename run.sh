@@ -21,14 +21,16 @@ source .venv/bin/activate
 # Dependencies
 # -----------------------------
 echo "📚 Installing dependencies..."
-pip install --upgrade pip setuptools wheel --no-cache-dir
+pip install --upgrade pip
 pip install -r requirements.txt
+
+export PYTHONPATH="$(pwd)"
 
 # -----------------------------
 # Start FastAPI backend
 # -----------------------------
 echo "🧠 Starting FastAPI backend..."
-uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload &
+uvicorn rag.api:app --host 0.0.0.0 --port 8000 --reload &
 
 FASTAPI_PID=$!
 echo "✅ FastAPI running (PID: $FASTAPI_PID)"
