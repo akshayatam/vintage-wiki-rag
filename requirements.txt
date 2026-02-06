@@ -6,4 +6,3 @@ fastapi
 streamlit 
 sentence-transformers 
 uvicorn 
-rag 
